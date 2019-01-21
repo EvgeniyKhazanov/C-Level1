@@ -1,0 +1,11 @@
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\bin\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.deps.json
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\bin\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.runtimeconfig.json
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\bin\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.runtimeconfig.dev.json
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\bin\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.dll
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\bin\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.pdb
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.csprojAssemblyReference.cache
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.csproj.CoreCompileInputs.cache
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.AssemblyInfoInputs.cache
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.AssemblyInfo.cs
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.dll
+D:\Documents\Разработки\C#Level1\Lv1L1T1_Questionnaire\Lv1L1T1_Questionnaire\obj\Debug\netcoreapp2.1\Lv1L1T1_Questionnaire.pdb
